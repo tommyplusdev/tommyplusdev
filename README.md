@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full-stack developer from Vancouver, BC</h3>
 
-<p>I like making coding accessible and creating things that are useful for communities.</p> 
+<p>I like making coding accessible and creating useful tools for communities.</p> 
 
-<p>If you'd like some help on your open-source project that's in good spirit, I'd be happy to talk! Send me an email in bio. </p>
+<p>If you'd like some help on with an open-source project and share the same spirit, I'd be happy to talk! Send me an email in bio. </p>
 
 <br>
 
