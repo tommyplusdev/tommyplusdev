@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **small encapsulated projects** for whatever language I'm learning!
 
-- 🌱 I’m currently learning and mastering **React.js**
+- 🌱 I’m currently learning **React.js, node.js, TypeScript, express.js!**
 
 - 👯 I’m looking to collaborate on **open source projects!**
 
-- 🤝 I’m looking for contribution hands with Wine (software) Documentation for games @ [the Visual Novel wiki](https://visualnovelwiki.org)
+- 🤝 I’m looking for contributing hands with Wine (software) Documentation for games @ [the Visual Novel wiki](https://visualnovelwiki.org)
 
 <!-- 👨‍💻 All of my projects are available at [portfoliolinktest](portfoliolinktest) !-->
 
@@ -16,8 +16,6 @@
 <!-- - 📫 How to reach me: **siektommy@gmail.com** !-->
 
 <!-- - 📄 Know about my experiences [resumelinktest](resumelinktest)!-->
-
-- ⚡ Fun fact **I'm also into 🌆 modern architecture!** 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
