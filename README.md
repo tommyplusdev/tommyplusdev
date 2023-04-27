@@ -9,7 +9,7 @@ Here's what I'm up to:
 
 <!-- - 🔭 I’m currently working on **small encapsulated projects** for whatever language I'm learning! -->
 
-- 🌱 I’m currently working on my `React.js, TypeScript, node.js, express.js` skills
+- 🌱 I’m currently working on improving my `React.js, TypeScript, node.js, express.js` skills
 
 - 👥 I’m looking to collaborate on more **open source projects!**
 
